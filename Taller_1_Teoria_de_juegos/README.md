@@ -6,11 +6,9 @@ Repositorio plantilla para entregar el taller en formato **Jupyter Notebook** co
 
 ---
 
-## Enlaces rápidos
-**Ver online (lectura):** https://nbviewer.org/github/Txpaz/Taller_1_Teoria_de_juegos/blob/HEAD/taller.ipynb  
-**Ejecutar online (Binder):** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Txpaz/Taller_1_Teoria_de_juegos/HEAD?labpath=taller.ipynb)
-
-> Si el nombre real del repositorio es distinto, actualiza `Txpaz/Taller_1_Teoria_de_juegos` en los enlaces.
+## Enlaces
+- 📖 [Ver el notebook (nbviewer)](https://nbviewer.org/github/Tupxz/Taller_1_Teoria_de_juegos/blob/main/Taller_1_Teor%C3%ADa_de_juegos/taller.ipynb)
+- ▶️ [Ejecutar el notebook (Binder)](https://mybinder.org/v2/gh/Tupxz/Taller_1_Teoria_de_juegos/main?labpath=Taller_1_Teor%C3%ADa_de_juegos%2Ftaller.ipynb)
 
 ---
 
